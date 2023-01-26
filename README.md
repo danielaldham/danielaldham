@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danielaldham
-- 👀 I’m interested in engineering/data
+- 👀 I’m interested in sports/engineering/data
 - 🌱 I’m currently learning CS50 through edX
 - 📫 How to reach me here or on twitter @danieltaldham
 

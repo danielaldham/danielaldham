@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danielaldham
-- 👀 I’m interested in sports/engineering/data
+- 👀 I’m interested in sports/engineering/data/webdev
 - 🌱 Completed CS50x
--  :hibiscus: Now leanring Data Science through edX
+-  :hibiscus: Now learning Data Science through edX
 - 📫 How to reach me here or on twitter @danieltaldham
 
 <!---
